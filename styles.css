@@ -4,7 +4,6 @@ body {
     background-color: darkgreen;
 }
 
-container {
-    width: 500px;
+.container {
     background-color: white;
 }
