@@ -1,10 +1,10 @@
 body {
-    padding-left: 60px;
-    padding-right: 60px;
+    padding-left: 8.3333%;
+    padding-right: 8.333%;
     background-color: darkgreen;
 }
 
 .container {
     background-color: white;
-    padding: 20px;
+    padding: 16.66666667%;
 }
