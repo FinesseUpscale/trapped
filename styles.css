@@ -1,8 +1,10 @@
 body {
     padding-left: 60px;
     padding-right: 60px;
+    background-color: darkgreen;
 }
 
 container {
     width: 500px;
+    background-color: white;
 }
