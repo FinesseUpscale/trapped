@@ -1,10 +1,21 @@
-body {
-    padding-left: 8.3333%;
-    padding-right: 8.333%;
-    background-color: darkgreen;
-}
-
 .container {
     background-color: white;
-    padding: 50px;
+    padding: 1em;
+    margin: auto;
+}
+
+body {
+    margin: 0;
+}
+
+canvas {
+    position: absolute;
+}
+
+p {
+    position: absolute;
+    padding: 10%;
+    font-weight: bold;
+    margin: auto;
+    text-align: justify;
 }
